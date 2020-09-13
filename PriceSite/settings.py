@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = 'iwd5o4yxc19x%bjf^nru(f7clrovi_^qwr4s56262dw3axgz(n'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['amazondiscounttracker.herokuapp.com']
 
 
 # Application definition
