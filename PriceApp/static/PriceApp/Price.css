@@ -1,3 +1,12 @@
 body {
     color: #333333;
 }
+
+.instructions{
+    margin-top: 10px;
+}
+
+.instructions-text{
+    margin-top: 10px;
+    color: darkgrey;
+}
